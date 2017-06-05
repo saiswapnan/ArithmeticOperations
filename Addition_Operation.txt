@@ -1,1 +1,3 @@
 addition operation is done here
+subtraction is also done here
+multiplication
